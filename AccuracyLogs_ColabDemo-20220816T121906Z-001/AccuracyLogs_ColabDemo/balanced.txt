@@ -1,0 +1,27 @@
+===========================================================================
+                               ACCURACY LOG                                
+===========================================================================
+
+Result for the Dataset Name : Balanced Dataset
+
+Model used for Training : RESNET18
+
+Dataset Name : Intel Scenery
+
+Classes : buildings , sea 
+
+Developer Name : Allena Venkata Sai Abhishek
+
+===========================================================================
+
+For train_dataset
+labels : ['buildings', 'sea']
+lbls_indices dictionary : {'buildings': 0, 'sea': 1}
+===============================
+For test_dataset
+labels : ['buildings', 'sea']
+lbls_indices dictionary : {'buildings': 0, 'sea': 1}
+===============================
+Total number of images in train dataset : 4000
+Total number of images in test dataset : 864
+device used : cpu
